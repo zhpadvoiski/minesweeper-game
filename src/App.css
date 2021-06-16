@@ -4,6 +4,10 @@
   height: 100vh;
   justify-content: center;
   align-items: center;
+  background-image: url('./minner.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 td{
   width: 45px !important;
